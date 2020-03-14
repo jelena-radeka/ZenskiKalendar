@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="oskudna">#f2a2b5</color>
+    <color name="normalna">#ba4561</color>
+    <color name="obilna">#ad0309</color>
+
+</resources>

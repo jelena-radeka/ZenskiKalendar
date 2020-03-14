@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="filter_Unosi">
+        <item>3 meseca</item>
+        <item>2 meseca</item>
+        <item>1 mesec</item>
+        <item>1 dan</item>
+    </string-array>
+
+    <string-array name="filter_Vrednosti">
+        <item>129600</item>
+        <item>86400</item>
+        <item>43200</item>
+        <item>1440</item>
+    </string-array>
+</resources>

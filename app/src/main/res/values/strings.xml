@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ZenskiKalendar</string>
+    <string name="toast_key">toast_key</string>
+    <string name="notif_key">notif_key</string>
+</resources>
